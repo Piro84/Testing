@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("What a shitty day it is today");
 		System.out.println("Hello Everyone except ur mom");
 		System.out.println("It is a pretty shitty day tbh");
+		System.out.print("My day is good but yesterday sucked hard");
 	}
 
 }
